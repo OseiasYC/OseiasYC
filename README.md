@@ -1,5 +1,5 @@
 # Hello, world!🚀
-💫I'm Oseias, brazilian, passionate about technology, from learning to teaching; study aimed at automations, artificial intelligence or full-stack development; my openness to the possibility will bring my self-knowledge.🪐
+💫I'm Oseias, brazilian, exuding technology, from learning to teaching; study aimed at automations, artificial intelligence or full-stack development; my openness to the possibility will bring my self-knowledge.🪐
 
 ~~Myers-Briggs says I'm ESTJ.~~
 
