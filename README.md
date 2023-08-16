@@ -5,8 +5,6 @@
 
 *"Things work out, not the way we want, but they do".*
 
-![snake](https://github.com/OseiasYc/OseiasYC/blob/output/github-contribution-grid-snake.svg)
-
 # Text me! 📫
 
 [![gMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:OseiasYC@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/OseiasYC)[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ](https://www.facebook.com/OseiasYC) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://OseiasYC.github.io/)
