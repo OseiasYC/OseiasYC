@@ -1,7 +1,7 @@
 # Hello, world!🚀
 💫I'm Oseias, brazilian, Bachelor of Software Engineering, exuding technology, from learning to teaching; study aimed at automations, artificial intelligence or full-stack development; my openness to the possibility will bring my self-knowledge.🪐
 
-~~Myers-Briggs says I'm ESTJ.~~
+~~Myers-Briggs says I'm ENTJ.~~
 
 *"Things work out, not the way we want, but they do".*
 
