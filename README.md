@@ -1,5 +1,5 @@
 # Hello, world!🚀
-💫I'm Oseias, brazilian, Bachelor of Software Engineering, exuding technology, from learning to teaching; study aimed at automations, artificial intelligence or full-stack development; my openness to the possibility will bring my self-knowledge.🪐
+💫I'm Oseias, brazilian, Software Engineering, exuding technology, from learning to teaching; study aimed at automations, artificial intelligence or full-stack development; my openness to the possibility will bring my self-knowledge.🪐
 
 ~~Myers-Briggs says I'm ENTJ.~~
 
@@ -7,7 +7,7 @@
 
 # Text me! 📫
 
-[![gMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:OseiasYC@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/OseiasYC)[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ](https://www.facebook.com/OseiasYC) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://OseiasYC.github.io/)
+[![gMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:OseiasYC@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/OseiasYC)[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ](https://www.facebook.com/OseiasYC)
 
 
 # Tech toolkit: 🖥️
